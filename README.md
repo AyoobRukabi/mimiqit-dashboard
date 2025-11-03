@@ -67,7 +67,7 @@ http://localhost:5173
 **Ayob Alrukabi**
 Data Analyst & Frontend Developer
 📍 Helsinki, Finland
-🔗 [LinkedIn](https://linkedin.com/in/your-link) · [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayob-alrukabi/) · [GitHub](hhttps://github.com/AyoobRukabi)
 
 ---
 
