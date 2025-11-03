@@ -65,7 +65,6 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 **Ayob Alrukabi**
-Data Analyst & Frontend Developer
 📍 Helsinki, Finland
 🔗 [LinkedIn](https://www.linkedin.com/in/ayob-alrukabi/) · [GitHub](https://github.com/AyoobRukabi/)
 
