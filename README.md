@@ -58,7 +58,7 @@ http://localhost:5173
 
 ## 🌐 Live Demo
 
-👉 **[Visit Live Demo on Vercel](https://mimiqit-dashboard.vercel.app)** *(Once deployed)*
+👉 **[Visit Live Demo on Vercel](https://mimiqit-dashboard.vercel.app)** 
 
 ---
 
