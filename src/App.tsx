@@ -35,6 +35,18 @@ export default function App() {
         <AddClassModal open={addClassOpen} onOpenChange={setAddClassOpen} />
         <Toaster position="top-right" />
       </div>
+      {/* Footer */}
+      <footer style={{
+        marginTop: '2rem',
+        fontSize: '0.85rem',
+        textAlign: 'center',
+        color: '#666',
+        borderTop: '1px solid #eee',
+        paddingTop: '1rem'
+      }}>
+        © 2025 <strong>MimiqIt</strong> | Prototype built by <strong>Ayob Alrukabi</strong>
+      </footer>
     </FilterProvider>
+    
   );
 }
